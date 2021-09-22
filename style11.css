@@ -1,0 +1,14 @@
+fieldset {
+  text-align: center;
+  background-color: cadetblue;
+
+  width: 500px;
+  margin-top: 10px;
+  margin-left: 500px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+section {
+  text-align: center;
+}
